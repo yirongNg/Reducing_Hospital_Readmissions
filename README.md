@@ -1,7 +1,7 @@
 # Reducing Hospital Readmissions
 
 ## 🔗 Project Links
-- [Data Manipulation with SQL]([https://app.datacamp.com/workspace/w/fbd56db5-1a00-4e5e-a86c-9b1585b47307/edit])
+- [Data Manipulation with SQL](https://app.datacamp.com/workspace/w/fbd56db5-1a00-4e5e-a86c-9b1585b47307)
 - [Interactive Dashboard on Tableau](https://public.tableau.com/views/ReducingHospitalReadmissions/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## 📖 Background
