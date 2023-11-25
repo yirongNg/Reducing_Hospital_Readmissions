@@ -34,9 +34,19 @@ You have access to ten years of patient information ([source](https://archive.ic
 
 ***Acknowledgments**: Beata Strack, Jonathan P. DeShazo, Chris Gennings, Juan L. Olmo, Sebastian Ventura, Krzysztof J. Cios, and John N. Clore, "Impact of HbA1c Measurement on Hospital Readmission Rates: Analysis of 70,000 Clinical Database Patient Records," BioMed Research International, vol. 2014, Article ID 781670, 11 pages, 2014.*
 
-## 🔍 Executive Summary
+## 🔍 Findings & Recommendations
 
+1. The most common primary diagnosis for age group 40-50 is "Other Diagnosis" but "Circulatory Diagnosis" is common for age groups 50-60, 60-70, 70-80, 80-90, and 90-100. Patients above 50 years old who are diagnosed with circulatory issue have 55-70& chance of readmission. Therefore, doctors should perform more diagnostic tests and prescribed ideal treatments for these senior patients.
 
+2. The top 3 groups of patient with high probability of readmission are diagnosed with Other (64%), Circulatory (62%), and Diabetes (35%). Among the patients who are diagnosed with other issues, 49% of them has circulatory problems and 31% of them has diabetes.
+
+3. Patients who have zero outpatient visit before hospital stay is likely to have high readmission rate. Among the number of readmitted patient who has zero outpatient visit before hospital stay, 63% of them has other diagnosis and 62% of them has circulatory diagnosis.
+
+4. About 56% of the readmitted patients do not have inpatient visit before hospital stay and 85% of the readmitted patients do not have emergency visit in a year before hospital stay. Thus, these two factors do not contribute to hospital readmissions.
+
+5. About 50% of the total readmissions do not include the medical specialty of the doctor. Thus, there is a lack of data to find out which medical specialty administered patients' readmissions.
+
+6. Among the 35% of readmitted diabetic patients, 92% of them did not do glucose test, 80% of them did not do A1C test, and 82% of them has diabetic medicine prescription by medical doctors. But since the medical specialty of the doctors was not administered in 50% of the total readmissions, it is not possible to investigate which medical specialty prescribes diabetic medication to patients.
 
 ![Story 1](https://github.com/yirongNg/Reducing_Hospital_Readmissions/assets/132359604/a044144c-4d83-4295-bbf1-4b3d9610cf4e)
 
